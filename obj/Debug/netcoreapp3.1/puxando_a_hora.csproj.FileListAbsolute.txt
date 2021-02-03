@@ -1,0 +1,13 @@
+C:\Users\guima\source\repos\puxando_a_hora\bin\Debug\netcoreapp3.1\puxando_a_hora.exe
+C:\Users\guima\source\repos\puxando_a_hora\bin\Debug\netcoreapp3.1\puxando_a_hora.deps.json
+C:\Users\guima\source\repos\puxando_a_hora\bin\Debug\netcoreapp3.1\puxando_a_hora.runtimeconfig.json
+C:\Users\guima\source\repos\puxando_a_hora\bin\Debug\netcoreapp3.1\puxando_a_hora.runtimeconfig.dev.json
+C:\Users\guima\source\repos\puxando_a_hora\bin\Debug\netcoreapp3.1\puxando_a_hora.dll
+C:\Users\guima\source\repos\puxando_a_hora\bin\Debug\netcoreapp3.1\puxando_a_hora.pdb
+C:\Users\guima\source\repos\puxando_a_hora\obj\Debug\netcoreapp3.1\puxando_a_hora.csprojAssemblyReference.cache
+C:\Users\guima\source\repos\puxando_a_hora\obj\Debug\netcoreapp3.1\puxando_a_hora.AssemblyInfoInputs.cache
+C:\Users\guima\source\repos\puxando_a_hora\obj\Debug\netcoreapp3.1\puxando_a_hora.AssemblyInfo.cs
+C:\Users\guima\source\repos\puxando_a_hora\obj\Debug\netcoreapp3.1\puxando_a_hora.csproj.CoreCompileInputs.cache
+C:\Users\guima\source\repos\puxando_a_hora\obj\Debug\netcoreapp3.1\puxando_a_hora.dll
+C:\Users\guima\source\repos\puxando_a_hora\obj\Debug\netcoreapp3.1\puxando_a_hora.pdb
+C:\Users\guima\source\repos\puxando_a_hora\obj\Debug\netcoreapp3.1\puxando_a_hora.genruntimeconfig.cache
